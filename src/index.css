@@ -45,11 +45,6 @@ body {
   cursor: pointer;
 }
 
-.circle {
-  font-size: 20px;
-  
-}
-
 .bottom-navigation-bar {
   position: fixed;
   bottom: 0;

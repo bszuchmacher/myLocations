@@ -82,7 +82,7 @@ export class Locations extends Component {
         return (
           <MenuItem 
           style={{
-            fontSize:"20px",
+            fontSize:"16px",
             fontFamily: 'Reggae One',
           }}
           key={category} value={category} 
